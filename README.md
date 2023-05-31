@@ -25,27 +25,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ClinicDatabase] <a name="about-project"></a>
+# 📖 ClinicDatabase <a name="about-project"></a>
 
-**[ClinicDatabase]** is a relational database for a clinic with details about patient, medical histories, treatments, invoices and invoice item details
+**ClinicDatabase** is a relational database for a clinic with details about patient, medical histories, treatments, invoices and invoice item details
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/"></a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/"></a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -58,8 +44,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create database]**
-- **[Create table]**
+- **Create database**
+- **Create table**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -164,11 +150,17 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Frank Mugagga**
 
 - GitHub: [@githubhandle](https://www.github.com/FrankMugagga)
 - Twitter: [@twitterhandle](https://www.twitter.com/@mugagga_frank)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/frank-mugagga)
+
+👤 **Mursedul Islam Sumon**
+
+- GitHub: [@githubhandle](https://www.github.com/sumon766)
+- Twitter: [@twitterhandle](https://www.twitter.com/sumon766)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumon766)
 
 
 
@@ -214,17 +206,6 @@ I would like to thank Microverse and my coding partners for the support and code
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-
-- **[What is a database?]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
